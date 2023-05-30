@@ -1,6 +1,6 @@
 | ITEM NAME               | ITEM PRICE | STOCK |
 | ----------------------- | ---------- | ----- |
-| MARKER                  | 20         | 100   |
+| MARKE44                 | 20         | 100   |
 | PENCIL                  | 15         | 100   |
 | COLOR PENCIL            | 25         | 100   |
 | COLOR PEN               | 25         | 100   |
